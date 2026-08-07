@@ -71,8 +71,13 @@
 
 <!-- Configure the Platane/snk GitHub Action -->
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WIZ_NU/WIZ_NU/output/github-contribution-grid-snake-dark.svg">
-<img src="https://raw.githubusercontent.com/WIZ_NU/WIZ_NU/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/WIZ-NU/WIZ-NU/output/github-contribution-grid-snake-dark.svg">
+
+  <img
+    alt="Contribution Snake"
+    src="https://raw.githubusercontent.com/WIZ-NU/WIZ-NU/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
